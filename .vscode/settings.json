@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32f1xx_ll_rcc.h": "c",
+        "stm32f1xx.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "stm32f1xx_ll_gpio.h": "c",
+        "oled.h": "c",
+        "bmp.h": "c",
+        "oledfont.h": "c",
+        "string.h": "c",
+        "stm32f1xx_ll_system.h": "c",
+        "stm32f1xx_ll_bus.h": "c",
+        "usart1.h": "c"
+    }
+}
